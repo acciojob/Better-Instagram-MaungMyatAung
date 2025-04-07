@@ -61,3 +61,21 @@ p {
 button {
   margin: 20px;
 }
+
+.image {
+    
+    background-size: cover;
+    background-position: center;
+    border: 2px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
